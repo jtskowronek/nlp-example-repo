@@ -1,1 +1,1 @@
-Practic repo
+A more detailed greeting: hello
